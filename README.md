@@ -1,4 +1,4 @@
-# Exercícios de Lógica de Programação em Python - [Curso em Vídeo](https://www.cursoemvideo.com/)
+# Lógica de Programação em Python - [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 Este repositório contém as minhas resoluções dos exercícios propostos nos cursos de Python do Professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
