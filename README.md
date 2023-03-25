@@ -10,7 +10,7 @@ As resoluções estão organizadas em pastas de acordo com o Mundo de cada curso
 
 ### Pastas do Repositório
 * [Mundo I](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20I) ✅
-* [Mundo II](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20II) ⏳
+* [Mundo II](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20II) ✅
 * Mundo III
 
 
