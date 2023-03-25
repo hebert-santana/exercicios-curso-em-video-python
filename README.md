@@ -17,11 +17,9 @@ As resoluções estão organizadas em pastas de acordo com o Mundo de cada curso
 ---
 
 ### Autor
-Criado e mantido por [Hebert Santana](https://github.com/hebert-santana).
-
-[![Linkedin Badge](https://img.shields.io/badge/-Hebert%20Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hebert-santana/)](https://www.linkedin.com/in/hebert-santana/)
-
 
 [<img src="https://avatars.githubusercontent.com/u/102166830?v=4" width=80>](https://www.linkedin.com/in/hebert-santana/)
+
+Criado e mantido por [Hebert Santana](https://www.linkedin.com/in/hebert-santana/).
 
 
