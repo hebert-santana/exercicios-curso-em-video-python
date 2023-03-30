@@ -7,7 +7,7 @@ def sorteia():
     numeros = []
     for i in range(5):
         numeros.append(randint(1, 10))
-    print(f"Numeros sorteados: {numeros}")
+    print(f'Numeros sorteados: {numeros}')
     return numeros
 
 def somaPar(numeros):
@@ -15,7 +15,7 @@ def somaPar(numeros):
     for numero in numeros:
         if numero % 2 == 0:
             soma += numero
-    print(f"Soma dos números pares: {soma}")
+    print(f'Soma dos números pares: {soma}')
 
 
 numeros_sorteados = sorteia()

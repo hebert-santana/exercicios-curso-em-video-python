@@ -12,27 +12,27 @@ def contador(inicio, fim, passo):
         
     if inicio < fim:        
         for i in range(inicio, fim+1, passo):
-            print(i, end=" ")
+            print(i, end=' ')
             sleep(0.5)
-        print("FIM!")
+        print('FIM!')
         
     else:
         for i in range(inicio, fim-1, -passo):
-            print(i, end=" ")
+            print(i, end=' ')
             sleep(0.5)
-        print("FIM!")
+        print('FIM!')
 
 # a) contagem de 1 até 10, de 1 em 1
-print("a) Contagem de 1 até 10, de 1 em 1:")
+print('a) Contagem de 1 até 10, de 1 em 1:')
 contador(1, 10, 1)
 
 # b) contagem de 10 até 0, de 2 em 2
-print("\nb) Contagem de 10 até 0, de 2 em 2:")
+print('\nb) Contagem de 10 até 0, de 2 em 2:')
 contador(10, 0, 2)
 
 # c) contagem personalizada
-print("\nc) Contagem personalizada:")
-inicio = int(input("Digite o valor de início: "))
-fim = int(input("Digite o valor de fim: "))
-passo = int(input("Digite o valor do passo: "))
+print('\nc) Contagem personalizada:')
+inicio = int(input('Digite o valor de início: '))
+fim = int(input('Digite o valor de fim: '))
+passo = int(input('Digite o valor do passo: '))
 contador(inicio, fim, passo)

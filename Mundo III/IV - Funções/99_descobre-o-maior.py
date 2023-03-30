@@ -3,13 +3,13 @@
 
 def maior(*numeros):
     if len(numeros) == 0:
-        print("Não foi informado nenhum valor")
+        print('Não foi informado nenhum valor')
     else:
         maior = numeros[0]
         for numero in numeros:
             if numero > maior:
                 maior = numero
-        print(f"O maior valor informado foi {maior}.")
+        print(f'O maior valor informado foi {maior}.')
 
 # testando a função
 maior(1, 3, 5, 7, 9)
