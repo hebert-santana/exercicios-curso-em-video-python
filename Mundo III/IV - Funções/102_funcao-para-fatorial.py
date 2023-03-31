@@ -28,3 +28,5 @@ else:
 
 print(fatorial(num, valor_logico))
 print(fatorial(num))
+
+help(fatorial)
