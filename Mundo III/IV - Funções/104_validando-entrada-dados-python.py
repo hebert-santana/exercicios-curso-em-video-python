@@ -7,7 +7,7 @@ def leiaInt(msg):
         try:
             n = int(input(msg))
         except (ValueError, TypeError):
-            print('\033[0;31mERRO: por favor, digite um número inteiro válido.\033[m')
+            print('\033[0;31mERRO: digite um número inteiro válido.\033[m')
             continue
         else:
             return n
