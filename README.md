@@ -9,9 +9,9 @@ As resoluções estão organizadas em pastas de acordo com o Mundo de cada curso
 </p>
 
 ### Pastas do Repositório
-* [Mundo I](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20I) ✅
-* [Mundo II](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20II) ✅
-* [Mundo III](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20III) ✅
+* [Mundo I](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20I) (35/35) ✅
+* [Mundo II](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20II) (36/36) ✅
+* [Mundo III](https://github.com/hebert-santana/exercicios-curso-em-video-python/tree/main/Mundo%20III) (44/44) ✅
 
 
 ---
